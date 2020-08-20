@@ -1,0 +1,7 @@
+C:\Users\Reedm\OneDrive\Desktop\ConsoleAppChallenge\ConsoleAppChallenges\Cafe\bin\Debug\Cafe.exe.config
+C:\Users\Reedm\OneDrive\Desktop\ConsoleAppChallenge\ConsoleAppChallenges\Cafe\bin\Debug\Cafe.exe
+C:\Users\Reedm\OneDrive\Desktop\ConsoleAppChallenge\ConsoleAppChallenges\Cafe\bin\Debug\Cafe.pdb
+C:\Users\Reedm\OneDrive\Desktop\ConsoleAppChallenge\ConsoleAppChallenges\Cafe\obj\Debug\Cafe.csprojAssemblyReference.cache
+C:\Users\Reedm\OneDrive\Desktop\ConsoleAppChallenge\ConsoleAppChallenges\Cafe\obj\Debug\Cafe.csproj.CoreCompileInputs.cache
+C:\Users\Reedm\OneDrive\Desktop\ConsoleAppChallenge\ConsoleAppChallenges\Cafe\obj\Debug\Cafe.exe
+C:\Users\Reedm\OneDrive\Desktop\ConsoleAppChallenge\ConsoleAppChallenges\Cafe\obj\Debug\Cafe.pdb

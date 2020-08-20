@@ -1,0 +1,7 @@
+C:\Users\Reedm\OneDrive\Desktop\ConsoleAppChallenge\ConsoleAppChallenges\ClaimServices\bin\Debug\ClaimServices.exe.config
+C:\Users\Reedm\OneDrive\Desktop\ConsoleAppChallenge\ConsoleAppChallenges\ClaimServices\bin\Debug\ClaimServices.exe
+C:\Users\Reedm\OneDrive\Desktop\ConsoleAppChallenge\ConsoleAppChallenges\ClaimServices\bin\Debug\ClaimServices.pdb
+C:\Users\Reedm\OneDrive\Desktop\ConsoleAppChallenge\ConsoleAppChallenges\ClaimServices\obj\Debug\ClaimServices.csproj.CoreCompileInputs.cache
+C:\Users\Reedm\OneDrive\Desktop\ConsoleAppChallenge\ConsoleAppChallenges\ClaimServices\obj\Debug\ClaimServices.exe
+C:\Users\Reedm\OneDrive\Desktop\ConsoleAppChallenge\ConsoleAppChallenges\ClaimServices\obj\Debug\ClaimServices.pdb
+C:\Users\Reedm\OneDrive\Desktop\ConsoleAppChallenge\ConsoleAppChallenges\ClaimServices\obj\Debug\ClaimServices.csprojAssemblyReference.cache

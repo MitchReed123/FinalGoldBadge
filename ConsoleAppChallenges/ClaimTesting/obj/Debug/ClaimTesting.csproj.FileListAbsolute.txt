@@ -1,0 +1,17 @@
+C:\Users\Reedm\OneDrive\Desktop\ConsoleAppChallenge\ConsoleAppChallenges\ClaimTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Reedm\OneDrive\Desktop\ConsoleAppChallenge\ConsoleAppChallenges\ClaimTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Reedm\OneDrive\Desktop\ConsoleAppChallenge\ConsoleAppChallenges\ClaimTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Reedm\OneDrive\Desktop\ConsoleAppChallenge\ConsoleAppChallenges\ClaimTesting\bin\Debug\ClaimTesting.dll
+C:\Users\Reedm\OneDrive\Desktop\ConsoleAppChallenge\ConsoleAppChallenges\ClaimTesting\bin\Debug\ClaimTesting.pdb
+C:\Users\Reedm\OneDrive\Desktop\ConsoleAppChallenge\ConsoleAppChallenges\ClaimTesting\bin\Debug\ClaimServices.exe
+C:\Users\Reedm\OneDrive\Desktop\ConsoleAppChallenge\ConsoleAppChallenges\ClaimTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Reedm\OneDrive\Desktop\ConsoleAppChallenge\ConsoleAppChallenges\ClaimTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Reedm\OneDrive\Desktop\ConsoleAppChallenge\ConsoleAppChallenges\ClaimTesting\bin\Debug\ClaimServices.pdb
+C:\Users\Reedm\OneDrive\Desktop\ConsoleAppChallenge\ConsoleAppChallenges\ClaimTesting\bin\Debug\ClaimServices.exe.config
+C:\Users\Reedm\OneDrive\Desktop\ConsoleAppChallenge\ConsoleAppChallenges\ClaimTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Reedm\OneDrive\Desktop\ConsoleAppChallenge\ConsoleAppChallenges\ClaimTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Reedm\OneDrive\Desktop\ConsoleAppChallenge\ConsoleAppChallenges\ClaimTesting\obj\Debug\ClaimTesting.csprojAssemblyReference.cache
+C:\Users\Reedm\OneDrive\Desktop\ConsoleAppChallenge\ConsoleAppChallenges\ClaimTesting\obj\Debug\ClaimTesting.csproj.CoreCompileInputs.cache
+C:\Users\Reedm\OneDrive\Desktop\ConsoleAppChallenge\ConsoleAppChallenges\ClaimTesting\obj\Debug\ClaimTesting.csproj.CopyComplete
+C:\Users\Reedm\OneDrive\Desktop\ConsoleAppChallenge\ConsoleAppChallenges\ClaimTesting\obj\Debug\ClaimTesting.dll
+C:\Users\Reedm\OneDrive\Desktop\ConsoleAppChallenge\ConsoleAppChallenges\ClaimTesting\obj\Debug\ClaimTesting.pdb
